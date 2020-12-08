@@ -20,6 +20,10 @@ exclude:
   - Gemfile.lock
 
 plugins:
+  - jekyll-default-layout
+  - jekyll-readme-index
+  - jekyll-github-metadata
+  - jekyll-titles-from-headings
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
