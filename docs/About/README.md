@@ -1,7 +1,8 @@
 ---
-sort: 1
+sort: 4
 ---
 
-# Project Pages
+# About Me
 
 {% include list.liquid %}
+

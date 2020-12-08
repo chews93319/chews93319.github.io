@@ -2,6 +2,6 @@
 sort: 3
 ---
 
-# Configuration Files
+# Reference Pages
 
-{% include list.liquid all=true %}
+{% include list.liquid %}
