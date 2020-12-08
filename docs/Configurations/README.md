@@ -2,5 +2,7 @@
 sort: 3
 ---
 
-# pytest
+# Configuration Pages
+
+{% include list.liquid %}
 
