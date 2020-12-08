@@ -4,5 +4,5 @@ sort: 4
 
 # About Me
 
-{% include list.liquid %}
+This is who I am....
 
