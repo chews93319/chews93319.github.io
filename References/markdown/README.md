@@ -2,5 +2,5 @@
 sort: 3
 ---
 
-# GitHub flavored markdown
+# Markdown Syntax
 
