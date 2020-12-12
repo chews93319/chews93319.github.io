@@ -4,7 +4,7 @@ sort: 1
 
 # - pytest references
 
-This document describes possible project standards for the implementation of tests using the Python `pytest` framework.
+This page describes possible project standards for the implementation of tests using the Python `pytest` framework.
 
 The intent is that this is a living document, so questions, comments, and revisions are welcome and encouraged.
 
